@@ -55,3 +55,5 @@ Welcome to the **MERN Stack CRUD** project! This is a beginner-friendly example 
 
 Enjoy coding your MERN stack application! 🚀
 My first MERN project using Git and GitHub
+Learning Git step by step
+Learning Git step by step
